@@ -182,6 +182,8 @@ ps -ef | grep nginx
 # 重启
 ./nginx -s reopen
 ```
+配置命令软连接
+ln -s /usr/local/nginx/sbin/nginx /usr/sbin/nginx
 
 ### 配置nginx
 
