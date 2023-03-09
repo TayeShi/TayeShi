@@ -9,5 +9,3 @@
 [npm](https://www.npmjs.com/)
 
 [maven](https://mvnrepository.com/)
-
-
