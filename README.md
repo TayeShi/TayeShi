@@ -1,6 +1,6 @@
 ## 链接
 
-[奇舞周刊](https://weekly.75.team/)
+[奇舞周刊](https://weekly.75.team)
 
 
 [dockerhub]([https://hub.docker.com/](https://hub.docker.com/))
