@@ -8,7 +8,7 @@
 
 然后，本地开发的分支就出现了冗余。
 
-![image-20240416165813127](.\git.assets\image-20240416165813127.png)
+![image-20240417090445729](https://assets.tayeshi.cn/markdown/image-20240417090445729.png)
 
 **批量清除命令：**
 
